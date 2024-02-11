@@ -94,6 +94,9 @@ Webteknologia kurssi
             <tr>
                 <th>Olio-ohjelmoinnin perusteet</th>
                 <th>5 op</th>
+		            <tr>
+                <th>testi näkyykö tämä</th>
+            </tr>
             </tr>
             </table>
 
